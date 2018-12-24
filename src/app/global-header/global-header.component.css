@@ -1,0 +1,24 @@
+#global_menu_block{
+	float: right;
+	margin-top: 50px;
+}
+#global_account_block{
+	float: right;
+	margin-right: 50px;
+}
+.default_hide{
+	display: none !important;
+}
+.menu_item{
+	margin-right: 35px;
+}
+.global_horizontal_block{
+	list-style-type: none;
+}
+.inline{
+	display: inline;
+	text-decoration: none;
+}
+.account_block_item{
+	margin-right: 15px;
+}
